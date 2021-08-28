@@ -1,6 +1,6 @@
 # 				Ingeniería de Software
 
-![UTN_Logo](../master/Recursos/utn_logo.png)
+![UTN_Logo](../main/Recursos/utn_logo.png)
 
 **Grupo 6**
 
