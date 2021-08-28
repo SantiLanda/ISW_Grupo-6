@@ -1,6 +1,13 @@
-# Titulo del archivo
+# 				Ingeniería de Software
 
-Con un parrafo por acá
+![UTN Logo](C:\Users\joaqu\Desktop\index.png)
 
-* Item 1
-* Item 2
+**Grupo 6**
+
+- Paz Fessia Facundo - 78579
+- Landa Santiago - 78637
+- Giron Joaquin - 60862
+- Tosco Rodrigo -69404
+- Pozzo Leonardo - 57453
+- Saleh Maximiliano - 78798
+
