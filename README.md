@@ -1,6 +1,6 @@
 # 				Ingeniería de Software
 
-![UTN Logo](C:\Users\joaqu\Desktop\index.png)
+![index](C:\Users\joaqu\Desktop\index.png)
 
 **Grupo 6**
 
